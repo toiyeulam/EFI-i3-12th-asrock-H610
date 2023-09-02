@@ -1,1 +1,1 @@
-# EFI-i3-12th-asrock-H610
+# EFI-Alder-Lake
