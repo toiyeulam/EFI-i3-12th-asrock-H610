@@ -1,2 +1,2 @@
 # EFI-Alder-Lake
-will update
+updating
